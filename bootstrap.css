@@ -1,0 +1,28 @@
+.navbar{
+    padding: 0px;
+}
+
+#navbarSupportedContent{
+    padding: 0px 10px;
+}
+
+.clickButton{
+    background-color: palevioletred;
+}
+
+.dropdown-item {
+    color: #fff;
+}
+
+.dropdown-item:active {
+    background-color: palevioletred;
+    color: #000;
+}
+
+.dropdown-item:hover {
+    color: #000;
+}
+
+.nav-item {
+    margin: 0px 2px;
+}
